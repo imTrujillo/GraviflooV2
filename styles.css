@@ -1,7 +1,5 @@
 #btn-guardar {
   background-color: #71ae33;
-  box-shadow: 6px 6px 20px rgba(25, 25, 26, 0.89),
-    -6px -1px 20px rgb(255, 251, 213);
   transition: all 0.2s;
   color: white;
   border: none;
@@ -15,8 +13,6 @@
 
 #btn-cancelar {
   background-color: #6799e7;
-  box-shadow: 6px 6px 20px rgba(25, 25, 26, 0.89),
-    -6px -1px 20px rgb(255, 251, 213);
   transition: all 0.2s;
   color: white;
   border: none;
