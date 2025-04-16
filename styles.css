@@ -6,7 +6,6 @@
   color: white;
   border: none;
   border-radius: 1rem;
-  padding: 0.6rem 3rem;
 }
 
 #btn-guardar:hover {
@@ -22,7 +21,6 @@
   color: white;
   border: none;
   border-radius: 1rem;
-  padding: 0.6rem 3rem;
 }
 
 #btn-cancelar:hover {
